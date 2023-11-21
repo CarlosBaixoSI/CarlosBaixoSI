@@ -38,7 +38,7 @@ I am an Information Systems Engineer with about 2 years of experience in .NET an
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.primaverabss.com%2Fpt%2F&psig=AOvVaw0oizGHh-kY62DiVrRAg2Oz&ust=1700695168723000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDg8Kyd1oIDFQAAAAAdAAAAABAE" align="center" height="" width="" />
+<img src="https://grupoprimavera.com/wp-content/uploads/2023/01/primavera.webp" align="center" height="" width="" />
 </div>  
 
 
