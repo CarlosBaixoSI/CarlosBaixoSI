@@ -38,7 +38,8 @@ I am an Information Systems Engineer with about 2 years of experience in .NET an
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://grupoprimavera.com/wp-content/uploads/2023/01/primavera.webp" align="center" height="" width="" />
+![code block```
+Logo Cegid](https://github.com/CarlosBaixoSI/CarlosBaixoSI/assets/73673227/3adca5bf-ea1e-4582-93b7-4fe88363c148)
 </div>  
 
 
